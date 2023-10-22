@@ -8,7 +8,7 @@ const ProfileScreen = () => {
         source={{ uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGHRR3hmaWGnKRU1flnUvukPsjQ6KFG2iKkQ&usqp=CAU' }}
         style={styles.profileImage}
       />
-      <Text style={styles.name}>John Tabanyag</Text>
+      <Text style={styles.name}>Melrose Valiente</Text>
       <Text style={styles.bio}>
     Bachelor of Science in Information Technology
       </Text>
